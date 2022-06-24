@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/marcoantonio/Desktop/Desktop - Marco’s MacBook Pro/CICCC/Java/.metadata/.plugins/org.eclipse.jdt.core
+1118410495.index
+1865797976.index
+2772675874.index
